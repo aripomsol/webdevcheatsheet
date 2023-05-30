@@ -1,0 +1,38 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+body {
+    background-color: burlywood;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+table {
+    border: 2px solid midnightblue;
+    width: 650;
+    margin: 0 auto;
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    text-align: start;
+    border-spacing: 2px;
+}
+
+td {
+    border: 1px dotted midnightblue;
+    display: table-cell;
+    vertical-align: inherit;
+    text-align: left;
+    padding: 5px;
+}
+
+.code {
+    background-color: lightgoldenrodyellow;
+}
